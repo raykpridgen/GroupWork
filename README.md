@@ -1,5 +1,5 @@
 # GroupWork
-Group work for software engineering fa;; 2024
+Group work for software engineering fall 2024
 
 
 Grocery Store POS System
