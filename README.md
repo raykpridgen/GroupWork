@@ -5,7 +5,7 @@ Group work for software engineering fall 2024
 Grocery Store POS System
 
 User Stories: 
-  As a cashier, I want to find the price of an item by name so that I can find the price.
+  As a cashier, I want to find an item by name so that I can find the price.
 
   As a cashier, I want to determine the change needed based on a customer's order and their bills, so that I am not spending a lot of time counting change. 
 
